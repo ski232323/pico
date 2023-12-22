@@ -3,5 +3,5 @@ from picozero import RGBLED
 from time import sleep
 
 rgb = RGBLED(red = 1, green = 2, blue = 3)
-rgb.color = (39, 236, 250)
+rgb.color = (0,220,250)
     
