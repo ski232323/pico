@@ -2,6 +2,7 @@
 from machine import Pin
 from time import sleep
 led1 = Pin(1, Pin.OUT)
+led1.toggle()
 
-led1.on()
+
 
