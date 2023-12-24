@@ -1,4 +1,4 @@
-#connct to pin 1 and 2 and 3
+#connect to pin 1 and 2 and 3
 from picozero import RGBLED
 from time import sleep
 
