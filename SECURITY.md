@@ -10,9 +10,9 @@ Commercial use is forbiden exept without authoriasation.
 We please you to be polite. You can start a discussion to contact me.
 4) Punishement
 The following punishement can be applied:
--ban the user
+- ban the user
 - signal the user to Github staff
--Law pushiment with the French tribunal
+ Law pushiment with the French tribunal
 
 By Contributing we may think taht you have accepted our rules.
 
